@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ActualRAM:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ActualRAM_jar</output-path>
+    <root id="archive" name="ActualRAM.jar">
+      <element id="module-output" name="ActualRAM" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+    </root>
+  </artifact>
+</component>
