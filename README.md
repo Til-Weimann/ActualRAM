@@ -27,3 +27,5 @@ Looking at this amount will give you a rough idea how much memory your server ac
 
 Be aware though that not only the server itself needs RAM - the panel, for example, also does. That's why you should always have at least a couple of 100 megabytes more than what the command tells you during player peaks. How much exactly very much depends on the individual situation.
 
+Spigot: https://www.spigotmc.org/resources/actualram-lightweight-memory-analysis-plugin.93377/
+
